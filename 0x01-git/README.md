@@ -1,1 +1,1 @@
-A new directory file
+New directory file
